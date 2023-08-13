@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bagreport>
+  <id>53</id>
+  <severity>minor</severity>
+  <priority>low</priority>
+  <environment>/Windows 10, Chrome 115.0.5790.171</environment>
+  <title>The title of the page Settings isn't blue colour</title>
+  <stepsToReproduce>: [
+    "step 1: Navigate to dot.com",
+    "step 2: Click menu",
+    "step 3: Select Settings"
+  ]</stepsToReproduce>
+  <actualResult>The text of title is red one</actualResult>
+  <expectedResult>The text of title is blue one</expectedResult>
+  <attachments>link to the video</attachments>
+  <author>Qa</author>
+</bagreport>
