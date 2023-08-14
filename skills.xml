@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<study>
+ <GitBash>true</GitBash>
+ <GitHub>true</GitHub>
+ <Postman>true</Postman>
+ <Charles>true</Charles>
+ <mobile testing>true</mobile testing>
+</study>
